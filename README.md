@@ -1,6 +1,6 @@
 # NetflixDataset
 
-This repository contains data analysis and visualization of Netflix Movies and TV Shows using a Jupyter Notebook.
+This repository contains data cleaning and preprocessing of Netflix Movies and TV Shows using a Jupyter Notebook.
 
 ## Files
 - Netflix data set.ipynb: Contains the data cleaning, exploration, and visualization steps.
